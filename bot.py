@@ -10,7 +10,7 @@ ADMIN_ID = 7621775709
 SUPPORT_USERNAME = "coo_vernost"
 
 # Адрес туннеля (без слэша в конце), например https://abc.ngrok.io
-WEBHOOK_URL = "https://ТВОЙ_ТУННЕЛЬ"
+WEBHOOK_URL = "https://reposut.onrender.com"
 
 bot = telebot.TeleBot(TOKEN)
 app = Flask(name)
