@@ -5,7 +5,7 @@ import sqlite3
 from datetime import datetime
 
 # ===== НАСТРОЙКИ =====
-TOKEN = "8828538265:AAFc7ZpB4o3eduUyNrQTozXgujzSpYRKvt0"
+TOKEN = "8828538265:AAHvTOhIrIUzPzC7oSZLA766zqSrLTfW3UI"
 ADMIN_ID = 7621775709
 SUPPORT_USERNAME = "coo_vernost"
 
